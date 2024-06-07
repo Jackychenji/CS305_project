@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/tmp/12589" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/tmp/client2" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/tmp/client3" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/data/666" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/data/12111511" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/data/admin" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/data/client1" />
+      <excludeFolder url="file://$MODULE_DIR$/HTTP/tmp/client1" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
